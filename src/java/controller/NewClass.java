@@ -9,5 +9,7 @@ package controller;
  * @author admin
  */
 public class NewClass {
-    
+    int a;
+    int b;
+    String c;
 }
